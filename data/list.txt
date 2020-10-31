@@ -1,0 +1,25 @@
+<li><a href="/index.php?id=1">
+  <img src="http://tahi96.dothome.co.kr/menu/홈1.jpg"
+  onmouseover="this.src='http://tahi96.dothome.co.kr/menu/홈2.jpg'"
+  onmouseout="this.src='http://tahi96.dothome.co.kr/menu/홈1.jpg'"
+  border-bottom="1px"></a></li>
+<li><a href="/index.php?id=2">
+  <img src="http://tahi96.dothome.co.kr/menu/사전1.jpg"
+  onmouseover="this.src='http://tahi96.dothome.co.kr/menu/사전2.jpg'"
+  onmouseout="this.src='http://tahi96.dothome.co.kr/menu/사전1.jpg'"
+  border-bottom="1px"></a></li>
+<li><a href="/index.php?id=3">
+  <img src="http://tahi96.dothome.co.kr/menu/일정1.jpg"
+  onmouseover="this.src='http://tahi96.dothome.co.kr/menu/일정2.jpg'"
+  onmouseout="this.src='http://tahi96.dothome.co.kr/menu/일정1.jpg'"
+  border-bottom="1px"></a></li>
+<li><a href="/index.php?id=4">
+  <img src="http://tahi96.dothome.co.kr/menu/지도1.jpg"
+  onmouseover="this.src='http://tahi96.dothome.co.kr/menu/지도2.jpg'"
+  onmouseout="this.src='http://tahi96.dothome.co.kr/menu/지도1.jpg'"
+  border-bottom="1px"></a></li>
+<li><a href="/index.php?id=5">
+  <img src="http://tahi96.dothome.co.kr/menu/참조1.jpg"
+  onmouseover="this.src='http://tahi96.dothome.co.kr/menu/참조2.jpg'"
+  onmouseout="this.src='http://tahi96.dothome.co.kr/menu/참조1.jpg'"
+  border-bottom="1px"></a></li>

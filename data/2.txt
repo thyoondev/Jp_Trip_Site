@@ -1,0 +1,43 @@
+  <table class="plan">
+        <tr >
+          <td class="trip">이름</td>
+          <td class="trip">항공료</td>
+          <td class="trip">숙박료</td>
+          <td class="trip">식비</td>
+          <td class="trip">기타</td>
+        </tr>
+        <tr >
+          <th nowrap="">태희</td>
+          <td >116,800</td>
+          <td rowspan="6" ></td>
+          <td ></td>
+          <td ></td>
+        </tr>
+        <tr >
+          <th nowrap="">지민</td>
+          <td rowspan="3">206,800</td>
+          <td ></td>
+          <td ></td>
+        </tr>
+        <tr >
+          <th nowrap="">민욱</td>
+          <td ></td>
+          <td ></td>
+        </tr>
+        <tr >
+          <th nowrap="">인선</td>
+          <td ></td>
+          <td ></td>
+        </tr>
+        <tr >
+          <th nowrap="">상호</td>
+          <td rowspan="2" >146,800</td>
+          <td ></td>
+          <td ></td>
+        </tr>
+        <tr >
+          <th nowrap="">영산</td>
+          <td ></td>
+          <td ></td>
+        </tr>
+</table>

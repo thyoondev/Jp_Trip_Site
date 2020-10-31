@@ -1,0 +1,5 @@
+<a href="/index.php?id=1">홈</a>
+<a href="/index.php?id=2">비용</a>
+<a href="/index.php?id=3">일정</a>
+<a href="/index.php?id=4">지도</a>
+<a href="/index.php?id=5">참조</a>

@@ -1,0 +1,12 @@
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script>
+ function initialize() {
+  var myLatlng = new google.maps.LatLng(34.666082, 135.500256);
+  var mapOptions = {
+       zoom: 10,
+       center: myLatlng,
+       mapTypeId: google.maps.MapTypeId.ROADMAP
+  }
+  var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+ }
+</script>

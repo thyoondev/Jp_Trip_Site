@@ -1,0 +1,116 @@
+html {
+	background: url(/bgimg/bgimg2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+img.bg {
+	/* Set rules to fill background */
+	min-height: 100%;
+	min-width: 1024px;
+
+	/* Set up proportionate scaling */
+	width: 100%;
+	height: auto;
+
+	/* Set up positioning */
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+	img.bg {
+		left: 50%;
+		margin-left: -512px;   /* 50% */
+	}
+}
+*{
+    margin: 0;
+    padding: 0;
+		-webkit-text-size-adjust:none; max-width:100%;
+}
+#title{
+  margin-top: 10%;
+  font-size: 2em;
+ text-align: center;
+ font-family: "Century Gothic","Lucida Grande",Arial,sans-serif;
+}
+h2{
+      font-weight: normal;
+}
+header h2{
+	text-shadow: 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black, 1px 1px black, -1px -1px black, -1px 1px black, 1px -1px black;
+	color: white;
+}
+nav{
+	text-align: center;
+}
+
+.navlink a:link, a:visited, a:hover{
+text-decoration:none;
+color:white
+
+  }
+
+.mastertrip{
+  color: black;
+  background-color: #F6F6F6;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-collapse: collapse;
+  width=780px;
+  table-layout: fixed;
+
+}
+
+.mastertrip td{
+	border: 1px solid gray;
+  padding: 5px;
+  font-size: 11px;
+  width: 96.375px;
+}
+
+.trip{
+    font-size: 12.919px;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: #4CAF50;
+    color: white;
+}
+.pluss{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.plan{
+	background-color: #F6F6F6;
+  margin: auto;
+  text-align: center;
+  width=780px;
+  table-layout: fixed;
+	border-collapse:collapse;
+	width: 700px;
+}
+.plan td, th{
+		border:1px solid gray;
+}
+
+
+.youtubeWrap {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}

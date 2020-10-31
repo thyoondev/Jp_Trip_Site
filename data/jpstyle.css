@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  background-color: #f6f6f6;
+}
+.youtubeWrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+.youtubeWrap iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+header {
+  text-align: center;
+  border-bottom: 1px solid gray;
+  padding: 10px;
+  background-image: url("/Osaka.jpg");
+  background-position: center center;
+}
+nav {
+  margin-top: 15px;
+  padding-top: 0px;
+  border-right: 1px solid gray;
+  width: 200px;
+  float: left;
+  height: 120%;
+  position: absolute;
+}
+article {
+  float: left;
+  padding-left: 220px;
+  padding-top: 20px;
+}
+nav ol {
+  list-style: none;
+}
+nav ul {
+  font-size: 20px;
+}
+h1 {
+  font-size: 30px;
+  margin: 0px;
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 780px;
+  table-layout: fixed;
+}
+table,
+td {
+  border: 1px solid gray;
+}
+td {
+  padding: 5px;
+  font-size: 11px;
+  width: 96.375px;
+}
+tr {
+}
+th {
+  font-size: 12.919px;
+  border: 1px solid gray;
+  padding: 5px;
+  background-color: #4caf50;
+  color: white;
+}
+#wrap {
+  width: 1000px;
+  margin: auto;
+}
+
+#s_time {
+  text-align: right;
+  font-size: 15px;
+}
+
+#tour {
+  padding-left: 30px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}

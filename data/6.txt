@@ -1,0 +1,13 @@
+<div class="pluss">
+준비 중 입니다
+<br>
+<img src="/menu/hosnara.png" alt="히오스사슴" />
+<br>
+나라 사슴 공원
+<br>
+<br>
+<img src="/menu/hosmenu1.png" alt="히오스메뉴1" />
+<img src="/menu/hosmenu2.png" alt="히오스메뉴2" />
+<br>
+    <a href="http://kr.battle.net/heroes/ko/" target="_blank"><input type="button" name="HoS" value="닫기" ></a>
+</div>

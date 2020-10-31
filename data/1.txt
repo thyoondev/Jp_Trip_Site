@@ -1,0 +1,7 @@
+<div class="youtubeWrap">
+
+<iframe class="youtube-player" id="player" type="text/html" src="http://www.youtube.com/embed/zOBfofzr0_c?autoplay=1&playlist=zOBfofzr0_c&loop=1&vq=hd2160&autohide=1&controls=0&showinfo=0&fs=0&rel=0&enablejsapi=1" width="1920" height="1080" frameborder="0"><div id="player"></div></iframe>
+
+</div>
+<!--<script> goPage('고오급 레스토랑에 오신것을 환영합니다!', 'http://kr.battle.net/heroes/ko/') </script>
+<a href="http://kr.battle.net/heroes/ko/" target="_blank">이 글씨를 누르지 마시오</a><br>-->
