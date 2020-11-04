@@ -13,10 +13,6 @@ php로 만들었으며 컨텐츠의 내용을 파일에서 불러와서 표시�
 
 
 
-![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png)
-
-![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png)
-
-![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160803.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160803.png)
-
-![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160804.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160804.png)
+| ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png) | ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png) |
+|:---:|:---:|
+| ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160803.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160803.png) | ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160804.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160804.png) |
