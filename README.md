@@ -3,7 +3,7 @@
 - brakets
 
 ### Features
-- 구글 지도 API
+- 백그라운드 YOUTUBE로 
 
 ### Screenshot
 | ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160801.png) | ![https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png](https://ikeaweb.s3.ap-northeast-2.amazonaws.com/gitimg/jpweb/160802.png) |
